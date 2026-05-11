@@ -1,11 +1,6 @@
 # 💫 About Me:
 Hi, I'm Prabhat Gautam, a passionate Full Stack Web Developer focused on building scalable and user-friendly web applications.<br><br>I specialize in the MERN Stack (MongoDB, Express, React, Node.js) and enjoy turning real-world problems into efficient digital solutions. Currently, I’m building a full-featured IRCTC-like train reservation system with real-time seat booking, authentication, and payment integration.<br><br>I also practice Data Structures and Algorithms daily to strengthen my problem-solving skills and improve my coding efficiency.<br><br>I enjoy learning new technologies, improving system design understanding, and writing clean, maintainable code.
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 ## 🌐 Socials:

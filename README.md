@@ -1,6 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-gautam-347001237) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PrabhatGau62084) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatgautam347@gmail.com)
 
-<img width="3168" height="1344" alt="image" src="https://github.com/user-attachments/assets/b335841b-9c49-463f-8ee4-c01492f67e15" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/bd7b3a88-9ace-444b-aa64-08748558346c" />
+
 
 
 

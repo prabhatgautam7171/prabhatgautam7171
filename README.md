@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-gautam-347001237) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PrabhatGau62084) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatgautam347@gmail.com)<br><br> 
 
-blob:https://gemini.google.com/c640271f-0c6e-4f29-97f6-4197d927abf2
+(https://gemini.google.com/c640271f-0c6e-4f29-97f6-4197d927abf2)
 
 
 

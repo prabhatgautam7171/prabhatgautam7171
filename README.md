@@ -5,7 +5,6 @@ I'm excited to share that my project **Luna AI** was recognized with a **Certifi
 
 This achievement reflects my passion for building AI-powered applications and solving real-world problems with modern technologies.
 
-## 🏆 Certificate & Project
 
 <table>
   <tr>

@@ -1,7 +1,7 @@
 # Certificate of Distinction · Luna AI Hackathon 
 ### July 2026
 
-> *Building AI experiences with simplicity, privacy, and performance.*
+> *Building AI experiences with simplicity, privacy, and performance ⎯ Automate your desktop tasks privately on your own pace.*
 
 I'm honored to have received the **Certificate of Distinction** for **Luna AI** during the **Luna AI Hackathon**.
 

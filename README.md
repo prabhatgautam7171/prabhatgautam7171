@@ -1,5 +1,5 @@
 
-# 🏆 Certificate of Distinction – Luna AI Hackathon
+# 🏆 Certificate of Distinction – Luna AI Hackathon. (July 2026)
 
 I'm excited to share that my project **Luna AI** was recognized with a **Certificate of Distinction** in the **Luna AI Hackathon**.
 

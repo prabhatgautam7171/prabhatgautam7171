@@ -43,10 +43,10 @@ An AI-powered desktop assistant designed for a fast, intuitive, and privacy-firs
 # Featured Projects
 
 <p align="center">
-  <a href="https://github.com/prabhatgautam7171/IRCTC">
+  <a href="https://github.com/prabhatgautam7171/IRCTC-Train-Reservation-System">
     <img width="250" alt="image" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6" />
   </a>
-  <a href="https://github.com/prabhatgautam7171/TaskFlow">
+  <a href="https://github.com/prabhatgautam7171/HorizonTechX_Taskflow-realtime-collaboration">
     <img width="250"  alt="image" src="https://github.com/user-attachments/assets/c47fd382-775c-4acb-8c8a-b6d08184784b" />
   </a>
    <a href="https://github.com/prabhatgautam7171/SOON">

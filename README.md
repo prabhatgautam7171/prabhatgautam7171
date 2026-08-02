@@ -1,1 +1,47 @@
-# 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 𝚘𝚏 𝙳𝚒𝚜𝚝𝚒𝚗𝚌𝚝𝚒𝚘𝚗 · 𝙻𝚞𝚗𝚊 𝙰𝙸 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗   ### 𝙹𝚞𝚕𝚢 𝟸𝟶𝟸𝟼  > *𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙰𝙸 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 𝚜𝚒𝚖𝚙𝚕𝚒𝚌𝚒𝚝𝚢, 𝚙𝚛𝚒𝚟𝚊𝚌𝚢, 𝚊𝚗𝚍 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎.*  𝙸'𝚖 𝚑𝚘𝚗𝚘𝚛𝚎𝚍 𝚝𝚘 𝚑𝚊𝚟𝚎 𝚛𝚎𝚌𝚎𝚒𝚟𝚎𝚍 𝚝𝚑𝚎 **𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 𝚘𝚏 𝙳𝚒𝚜𝚝𝚒𝚗𝚌𝚝𝚒𝚘𝚗** 𝚏𝚘𝚛 **𝙻𝚞𝚗𝚊 𝙰𝙸** 𝚍𝚞𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 **𝙻𝚞𝚗𝚊 𝙰𝙸 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗**.  <𝚝𝚊𝚋𝚕𝚎 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛"> <𝚝𝚛> <𝚝𝚍 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛" 𝚠𝚒𝚍𝚝𝚑="𝟻𝟶%">  **𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 𝚘𝚏 𝙳𝚒𝚜𝚝𝚒𝚗𝚌𝚝𝚒𝚘𝚗**  <𝚒𝚖𝚐 𝚜𝚛𝚌="𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚞𝚜𝚎𝚛-𝚊𝚝𝚝𝚊𝚌𝚑𝚖𝚎𝚗𝚝𝚜/𝚊𝚜𝚜𝚎𝚝𝚜/𝟾𝟹𝚋𝟽𝚊𝟿𝟷𝟻-𝟸𝚏𝚏𝚌-𝟺𝟺𝚏𝟸-𝚋𝟸𝚋𝟺-𝟿𝟽𝚏𝟾𝟹𝚋𝚋𝚌𝚏𝚌𝚊𝟺" 𝚠𝚒𝚍𝚝𝚑="𝟹𝟼𝟶"/>  </𝚝𝚍>  <𝚝𝚍 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛" 𝚠𝚒𝚍𝚝𝚑="𝟻𝟶%">  **𝙻𝚞𝚗𝚊 𝙰𝙸**  <𝚊 𝚑𝚛𝚎𝚏="𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚙𝚛𝚊𝚋𝚑𝚊𝚝𝚐𝚊𝚞𝚝𝚊𝚖𝟽𝟷𝟽𝟷/𝙻𝚄𝙽𝙰"> <𝚒𝚖𝚐 𝚜𝚛𝚌="𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚞𝚜𝚎𝚛-𝚊𝚝𝚝𝚊𝚌𝚑𝚖𝚎𝚗𝚝𝚜/𝚊𝚜𝚜𝚎𝚝𝚜/𝚍𝟸𝟸𝟶𝚌𝟸𝚋𝚎-𝟶𝟷𝚍𝚎-𝟺𝟷𝟺𝚏-𝟿𝚌𝟸𝚌-𝟾𝚎𝚋𝟿𝟿𝟹𝚊𝟾𝚏𝟺𝟽𝟶" 𝚠𝚒𝚍𝚝𝚑="𝟹𝟼𝟶"/> </𝚊>  </𝚝𝚍> </𝚝𝚛> </𝚝𝚊𝚋𝚕𝚎>  ---  ## 𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝙻𝚞𝚗𝚊 𝙰𝙸  𝙰𝚗 𝙰𝙸-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚊𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚝 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚍 𝚏𝚘𝚛 𝚊 𝚏𝚊𝚜𝚝, 𝚒𝚗𝚝𝚞𝚒𝚝𝚒𝚟𝚎, 𝚊𝚗𝚍 𝚙𝚛𝚒𝚟𝚊𝚌𝚢-𝚏𝚒𝚛𝚜𝚝 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎.  **𝙶𝚒𝚝𝙷𝚞𝚋 →**   **𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚙𝚛𝚊𝚋𝚑𝚊𝚝𝚐𝚊𝚞𝚝𝚊𝚖𝟽𝟷𝟽𝟷/𝙻𝚄𝙽𝙰**  ⭐ 𝙸𝚏 𝚢𝚘𝚞 𝚎𝚗𝚓𝚘𝚢 𝚝𝚑𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝, 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛 𝚐𝚒𝚟𝚒𝚗𝚐 𝚒𝚝 𝚊 𝚜𝚝𝚊𝚛.  ---  <𝚍𝚒𝚟 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛">  𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚋𝚢 **𝙿𝚛𝚊𝚋𝚑𝚊𝚝 𝙶𝚊𝚞𝚝𝚊𝚖**  </𝚍𝚒𝚟>
+# Certificate of Distinction · Luna AI Hackathon  
+### July 2026
+
+> *Building AI experiences with simplicity, privacy, and performance.*
+
+I'm honored to have received the **Certificate of Distinction** for **Luna AI** during the **Luna AI Hackathon**.
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**Certificate of Distinction**
+
+<img src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="360"/>
+
+</td>
+
+<td align="center" width="50%">
+
+**Luna AI**
+
+<a href="https://github.com/prabhatgautam7171/LUNA">
+<img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="360"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Explore Luna AI
+
+An AI-powered desktop assistant designed for a fast, intuitive, and privacy-first experience.
+
+**GitHub →**  
+**https://github.com/prabhatgautam7171/LUNA**
+
+⭐ If you enjoy the project, consider giving it a star.
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Prabhat Gautam**
+
+</div>

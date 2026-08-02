@@ -1,4 +1,4 @@
-# Certificate of Distinction · Luna AI Hackathon  
+# Certificate of Distinction · Luna AI Hackathon  (July '26)
 ### July 2026
 
 > *Building AI experiences with simplicity, privacy, and performance.*

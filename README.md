@@ -42,7 +42,9 @@ An AI-powered desktop assistant designed for a fast, intuitive, and privacy-firs
 
 # Featured Projects
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/prabhatgautam7171/IRCTC-Train-Reservation-System">
     <img width="250" alt="image" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6" />
   </a>
@@ -52,7 +54,9 @@ An AI-powered desktop assistant designed for a fast, intuitive, and privacy-firs
    <a href="https://github.com/prabhatgautam7171/SOON">
     <img width="250"  alt="image" src="https://github.com/user-attachments/assets/ad095881-1bfd-48f9-9ee7-8dcdd98b0190" />
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 
 

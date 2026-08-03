@@ -46,13 +46,13 @@ An AI-powered desktop assistant designed for a fast, intuitive, and privacy-firs
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/prabhatgautam7171/IRCTC-Train-Reservation-System">
-    <img width="280" alt="image" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6" />
+    <img width="250" alt="image" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6" />
   </a>
   <a href="https://github.com/prabhatgautam7171/LUNA">
-   <img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="280"/>
+   <img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="250"/>
   </a>
    <a href="https://github.com/prabhatgautam7171/SOON">
-    <img width="280"  alt="image" src="https://github.com/user-attachments/assets/ad095881-1bfd-48f9-9ee7-8dcdd98b0190" />
+    <img width="250"  alt="image" src="https://github.com/user-attachments/assets/ad095881-1bfd-48f9-9ee7-8dcdd98b0190" />
   </a>
 </td>
 </tr>

@@ -1,4 +1,7 @@
-####  "Use AI smartly , but don't let it to lead you"
+<h2 align="center">
+  <span style="color:#58a6ff;">❝ Use AI smartly,</span>
+  <span style="color:#a371f7;">but don't let it lead you. ❞</span>
+</h2>
 
 ### July 2026
 

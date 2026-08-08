@@ -1,3 +1,4 @@
+####  "Use AI smartly , but don't let it to lead you"
 
 ### July 2026
 

@@ -48,8 +48,7 @@ I'm honored to have received the **Certificate of Distinction** for **Luna AI** 
     <img width="200"  alt="image" src="https://github.com/user-attachments/assets/ad095881-1bfd-48f9-9ee7-8dcdd98b0190" />
   </a>
   <a href="https://github.com/prabhatgautam7171/warpline">
-     <img width="200"  alt="image" src="https://github.com/user-attachments/assets/cf191e6c-9524-46e6-9999-7404a6fdc35e" />
-
+   <img width="200" alt="image" src="https://github.com/user-attachments/assets/ded4083b-9a00-4a87-a01b-3cb27888c287" />
    </a>
 </td>
 </tr>

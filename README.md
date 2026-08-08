@@ -1,6 +1,6 @@
 <h2 align="center">
   <span style="color:#58a6ff;">❝ Use AI smartly,</span>
-  <span style="color:#a371f7;">but don't let it lead you. ❞</span>
+  <span style="color:#a371f7;">Don't let it lead you. ❞</span>
 </h2>
 
 ### July 2026

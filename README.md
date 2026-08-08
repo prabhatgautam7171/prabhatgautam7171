@@ -29,17 +29,6 @@ I'm honored to have received the **Certificate of Distinction** for **Luna AI** 
 
 ---
 
-## Explore Luna AI
-
-An AI-powered desktop assistant designed for a fast, intuitive, and privacy-first experience.
-
-**GitHub →**  
-**https://github.com/prabhatgautam7171/LUNA**
-
-⭐ If you enjoy the project, consider giving it a star.
-
----
-
 # Featured Projects
 
 <table align="center">

@@ -21,11 +21,12 @@ I'm honored to have received the **Certificate of Distinction** for **Luna AI** 
 
 <td align="center" width="50%">
 
-**Luna AI**
+**Certificate of Appreciation**
 
-<a href="https://github.com/prabhatgautam7171/LUNA">
-<img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="360"/>
-</a>
+
+<img width="360"  alt="D9DD9712-1907-4A98-A71E-56816C5D8EA0" src="https://github.com/user-attachments/assets/eff8647e-9874-42d4-9033-378b6f8340e2" />
+
+
 
 </td>
 </tr>

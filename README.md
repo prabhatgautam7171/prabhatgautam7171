@@ -7,7 +7,6 @@
 
 > *Building AI experiences with simplicity, privacy, and performance.*
 
-I'm honored to have received the **Certificate of Distinction** for **Luna AI** during the **Luna AI Hackathon**.
 
 <table align="center">
 <tr>

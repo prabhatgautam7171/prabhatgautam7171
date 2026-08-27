@@ -12,7 +12,7 @@
 <tr>
 <td align="center" width="50%">
 
-**Distinction 🏅** - Jul 2026
+**Distinction 🏅** - *Jul 2026*
 
 <img src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="360"/>
 
@@ -20,7 +20,7 @@
 
 <td align="center" width="50%">
 
-**Appreciation 🎖️** - AUG 2026
+**Appreciation 🎖️** - *Aug 2026*
 
 
 <img width="360"  alt="D9DD9712-1907-4A98-A71E-56816C5D8EA0" src="https://github.com/user-attachments/assets/eff8647e-9874-42d4-9033-378b6f8340e2" />

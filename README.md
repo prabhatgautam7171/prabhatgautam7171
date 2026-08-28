@@ -43,9 +43,6 @@ Building AI experiences with simplicity, privacy, and performance.
   <a href="https://github.com/prabhatgautam7171/LUNA">
    <img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="200"/>
   </a>
-   <a href="https://github.com/prabhatgautam7171/SOON">
-    <img width="200"  alt="image" src="https://github.com/user-attachments/assets/ad095881-1bfd-48f9-9ee7-8dcdd98b0190" />
-  </a>
   <a href="https://github.com/prabhatgautam7171/warpline">
    <img width="200" alt="image" src="https://github.com/user-attachments/assets/ded4083b-9a00-4a87-a01b-3cb27888c287" />
    </a>

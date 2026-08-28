@@ -32,8 +32,6 @@ Building AI experiences with simplicity, privacy, and performance.
 
 ---
 
-# Featured Projects
-
 <table align="center">
 <tr>
 <td align="center" width="50%">

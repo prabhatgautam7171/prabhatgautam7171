@@ -42,7 +42,8 @@ Building AI experiences with simplicity, privacy, and performance.
    <img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="200"/>
   </a>
   <a href="https://warpline-lemon.vercel.app">
-   <img width="200" alt="image" src="https://github.com/user-attachments/assets/d6ad85b4-c1c9-4e77-87b7-5ca436146f5c" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/086f3783-a339-4a59-a07f-0023b9522795" />
+
 
    </a>
   <a href="https://estele-red.vercel.app">

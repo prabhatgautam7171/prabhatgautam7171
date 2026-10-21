@@ -3,10 +3,6 @@
   <span style="color:#a371f7;">Don't let it lead you. ❞</span>
 </h2>
 
-<h5 align="center" style="color:#808080;">
-Building AI experiences with simplicity, privacy, and performance.
-</h5>
-
 ---
 
 <table width="100%">

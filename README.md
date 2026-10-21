@@ -33,7 +33,7 @@
 
 <p>An AI-powered desktop experience built around simplicity, privacy, and performance.</p>
 
-<p><strong>JavaScript · Ollama · Llama 3.2</strong></p>
+<p><strong>Electron · JavaScript · Ollama · Llama 3.2</strong></p>
 
 <p><a href="https://github.com/prabhatgautam7171/LUNA">View Repository ↗</a></p>
 

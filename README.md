@@ -43,7 +43,7 @@ A modern mobile platform built with React Native and Expo that helps people disc
 
 <p>
 <strong>Tech Stack</strong><br/>
-React Native · Expo · JavaScript · REST APIs
+React Native · Expo · JavaScript · TypeScript · REST APIs
 </p>
 
 <p>

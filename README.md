@@ -39,8 +39,6 @@
 
 <h3>📱 Spredo — Mobile Application</h3>
 
-<p><strong>Your community, amplified.</strong></p>
-
 <a href="https://spredo.onrender.com/api">
 <img width="100%" alt="Spredo Mobile Application iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
 </a>

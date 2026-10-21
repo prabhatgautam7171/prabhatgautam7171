@@ -38,7 +38,8 @@ Building AI experiences with simplicity, privacy, and performance.
 </p>
 
 <!-- Replace SPREDO_IPHONE_IMAGE_URL with your uploaded iPhone mockup image URL -->
-<img src="SPREDO_IPHONE_IMAGE_URL" width="90%" alt="Spredo iPhone App Preview"/>
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55" />
+
 
 <p>
 A modern mobile platform built with React Native and Expo that helps people discover campaigns, create initiatives, and amplify meaningful causes.

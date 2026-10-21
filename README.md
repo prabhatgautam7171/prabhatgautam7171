@@ -20,8 +20,6 @@ Building AI experiences with simplicity, privacy, and performance.
 
 <img src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="95%" alt="Distinction Certificate"/>
 
-<br/><br/>
-
 <p><strong>Appreciation 🎖️</strong><br/>
 <sub>August 2026</sub></p>
 

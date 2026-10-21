@@ -3,8 +3,6 @@
   <span style="color:#a371f7;">Don't let it lead you. ❞</span>
 </h2>
 
----
-
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">

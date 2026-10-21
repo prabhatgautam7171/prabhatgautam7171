@@ -9,8 +9,6 @@ Building AI experiences with simplicity, privacy, and performance.
 
 ---
 
-<h2 align="center">🚀 Featured Applications</h2>
-
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">

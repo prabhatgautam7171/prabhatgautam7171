@@ -9,7 +9,7 @@ Building AI experiences with simplicity, privacy, and performance.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Applications</h2>
 
 <table width="100%">
 <tr>
@@ -18,73 +18,46 @@ Building AI experiences with simplicity, privacy, and performance.
 <h3>🌐 IRCTC — Web Application</h3>
 
 <a href="https://irctc-reservation-system.onrender.com">
-<img width="95%" alt="IRCTC Reservation System" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6"/>
+<img width="200" alt="IRCTC Reservation System" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6"/>
 </a>
 
-<p>
-A full-stack train reservation platform featuring train search, booking workflows, seat allocation, passenger authentication, and reservation management.
-</p>
+<p>A full-stack train reservation platform featuring train search, booking workflows, seat allocation, authentication, and reservation management.</p>
 
-<p>
-<strong>Tech Stack</strong><br/>
-Next.js · React · Node.js · Express · MongoDB · Redux Toolkit
-</p>
+<p><strong>Next.js · React · Node.js · Express · MongoDB</strong></p>
 
-<p>
-<a href="https://irctc-reservation-system.onrender.com">Live Demo ↗</a>
-</p>
+<p><a href="https://irctc-reservation-system.onrender.com">Live Demo ↗</a></p>
+
+<br/>
+
+<h3>🖥️ LUNA — Desktop Application</h3>
+
+<a href="https://github.com/prabhatgautam7171/LUNA">
+<img width="200" alt="LUNA AI Desktop Application" src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470"/>
+</a>
+
+<p>An AI-powered desktop experience built around simplicity, privacy, and performance.</p>
+
+<p><strong>JavaScript · Ollama · Llama 3.2</strong></p>
+
+<p><a href="https://github.com/prabhatgautam7171/LUNA">View Repository ↗</a></p>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<h3>🖥️ LUNA — Desktop Application</h3>
-
-<a href="https://github.com/prabhatgautam7171/LUNA">
-<img width="95%" alt="LUNA AI Desktop Application" src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470"/>
-</a>
-
-<p>
-An AI-powered desktop experience focused on making AI more accessible while emphasizing simplicity, privacy, and performance.
-</p>
-
-<p>
-<strong>Tech Stack</strong><br/>
-JavaScript · Ollama · Llama 3.2
-</p>
-
-<p>
-<a href="https://github.com/prabhatgautam7171/LUNA">View Repository ↗</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center" valign="top">
-
 <h3>📱 Spredo — Mobile Application</h3>
 
-<a href="https://spredo.onrender.com">
-<img width="300" alt="Spredo Mobile App iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
+<p><strong>Your community, amplified.</strong></p>
+
+<a href="https://spredo.onrender.com/api">
+<img width="100%" alt="Spredo Mobile Application iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
 </a>
 
-<p>
-<strong>Your community, amplified.</strong>
-</p>
+<p>A campaign-amplification app that helps users discover campaigns, create initiatives, and bring meaningful causes to a wider audience.</p>
 
-<p>
-A campaign-amplification platform that helps people discover campaigns, create initiatives, and bring meaningful causes to a wider audience.
-</p>
+<p><strong>React Native · Expo · JavaScript · TypeScript · REST APIs</strong></p>
 
-<p>
-<strong>Tech Stack</strong><br/>
-React Native · Expo · JavaScript · TypeScript · REST APIs
-</p>
-
-<p>
-<a href="https://spredo.onrender.com/api">Live API ↗</a>
-</p>
+<p><a href="https://spredo.onrender.com/api">Live API ↗</a></p>
 
 </td>
 </tr>
@@ -94,25 +67,21 @@ React Native · Expo · JavaScript · TypeScript · REST APIs
 
 <h2 align="center">🏆 Certificates & Recognition</h2>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td align="center" width="50%">
 
-<h3>Distinction 🏅</h3>
+**Distinction 🏅** - *Jul 2026*
 
-<p><sub>July 2026</sub></p>
-
-<img width="95%" alt="Distinction Certificate" src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4"/>
+<img src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="360" alt="Distinction Certificate"/>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td align="center" width="50%">
 
-<h3>Appreciation 🎖️</h3>
+**Appreciation 🎖️** - *Aug 2026*
 
-<p><sub>August 2026</sub></p>
-
-<img width="95%" alt="Appreciation Certificate" src="https://github.com/user-attachments/assets/eff8647e-9874-42d4-9033-378b6f8340e2"/>
+<img width="360" alt="Appreciation Certificate" src="https://github.com/user-attachments/assets/eff8647e-9874-42d4-9033-378b6f8340e2"/>
 
 </td>
 </tr>

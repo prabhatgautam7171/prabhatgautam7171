@@ -7,38 +7,74 @@
 Building AI experiences with simplicity, privacy, and performance.
 </h5>
 
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>🏆 Certificates & Recognition</h3>
+<h3>🌐 IRCTC — Web Application</h3>
 
-<p><strong>Distinction 🏅</strong><br/>
-<sub>July 2026</sub></p>
+<a href="https://irctc-reservation-system.onrender.com">
+<img width="95%" alt="IRCTC Reservation System" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6"/>
+</a>
 
-<img src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="95%" alt="Distinction Certificate"/>
+<p>
+A full-stack train reservation platform featuring train search, booking workflows, seat allocation, passenger authentication, and reservation management.
+</p>
 
-<p><strong>Appreciation 🎖️</strong><br/>
-<sub>August 2026</sub></p>
+<p>
+<strong>Tech Stack</strong><br/>
+Next.js · React · Node.js · Express · MongoDB · Redux Toolkit
+</p>
 
-<img src="https://github.com/user-attachments/assets/eff8647e-9874-42d4-9033-378b6f8340e2" width="95%" alt="Appreciation Certificate"/>
+<p>
+<a href="https://irctc-reservation-system.onrender.com">Live Demo ↗</a>
+</p>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<h3>📱 Spredo — Campaign Amplification</h3>
+<h3>🖥️ LUNA — Desktop Application</h3>
+
+<a href="https://github.com/prabhatgautam7171/LUNA">
+<img width="95%" alt="LUNA AI Desktop Application" src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470"/>
+</a>
+
+<p>
+An AI-powered desktop experience focused on making AI more accessible while emphasizing simplicity, privacy, and performance.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br/>
+JavaScript · Ollama · Llama 3.2
+</p>
+
+<p>
+<a href="https://github.com/prabhatgautam7171/LUNA">View Repository ↗</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<h3>📱 Spredo — Mobile Application</h3>
+
+<a href="https://spredo.onrender.com">
+<img width="300" alt="Spredo Mobile App iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
+</a>
 
 <p>
 <strong>Your community, amplified.</strong>
 </p>
 
-<!-- Replace SPREDO_IPHONE_IMAGE_URL with your uploaded iPhone mockup image URL -->
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55" />
-
-
 <p>
-A modern mobile platform built with React Native and Expo that helps people discover campaigns, create initiatives, and amplify meaningful causes.
+A campaign-amplification platform that helps people discover campaigns, create initiatives, and bring meaningful causes to a wider audience.
 </p>
 
 <p>
@@ -47,7 +83,7 @@ React Native · Expo · JavaScript · TypeScript · REST APIs
 </p>
 
 <p>
-<a href="https://spredo.onrender.com/api"><strong>Live API ↗</strong></a>
+<a href="https://spredo.onrender.com/api">Live API ↗</a>
 </p>
 
 </td>
@@ -56,29 +92,31 @@ React Native · Expo · JavaScript · TypeScript · REST APIs
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🏆 Certificates & Recognition</h2>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="50%">
-  <a href="https://irctc-reservation-system.onrender.com">
-    <img width="200" alt="image" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6" />
-  </a>
-  <a href="https://github.com/prabhatgautam7171/LUNA">
-   <img src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470" width="200"/>
-  </a>
-  <a href="https://warpline-lemon.vercel.app">
-  <img width="200" alt="image" src="https://github.com/user-attachments/assets/086f3783-a339-4a59-a07f-0023b9522795" />
+<td width="50%" align="center" valign="top">
 
+<h3>Distinction 🏅</h3>
 
-   </a>
-  <a href="https://estele-red.vercel.app">
-  <img width="200"  alt="D6A2C8B4-938B-4E5D-B72B-B4211E1FA154" src="https://github.com/user-attachments/assets/b7045a5f-45c4-471a-bc06-d20fca7c0fae" />
-   </a>
+<p><sub>July 2026</sub></p>
+
+<img width="95%" alt="Distinction Certificate" src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4"/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>Appreciation 🎖️</h3>
+
+<p><sub>August 2026</sub></p>
+
+<img width="95%" alt="Appreciation Certificate" src="https://github.com/user-attachments/assets/eff8647e-9874-42d4-9033-378b6f8340e2"/>
+
 </td>
 </tr>
 </table>
-
 
 ---
 

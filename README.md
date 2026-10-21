@@ -7,8 +7,6 @@
 Building AI experiences with simplicity, privacy, and performance.
 </h5>
 
-<br/>
-
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">

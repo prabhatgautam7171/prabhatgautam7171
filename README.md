@@ -10,7 +10,8 @@
 <h3>🌐 IRCTC — Web Application</h3>
 
 <a href="https://irctc-reservation-system.onrender.com">
-<img width="200" alt="IRCTC Reservation System" src="https://github.com/user-attachments/assets/0752cd8c-bd98-4ddc-a181-e84d2ceca0f6"/>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/f0943fb8-b270-4736-93c7-0c576c18cd92" />
+
 </a>
 
 <p>A full-stack train reservation platform featuring train search, booking workflows, seat allocation, authentication, and reservation management.</p>

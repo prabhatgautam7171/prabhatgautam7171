@@ -10,7 +10,7 @@
 <h3>🌐 IRCTC — Web Application</h3>
 
 <a href="https://irctc-reservation-system.onrender.com">
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/f0943fb8-b270-4736-93c7-0c576c18cd92" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f0943fb8-b270-4736-93c7-0c576c18cd92" />
 
 </a>
 

@@ -27,7 +27,7 @@
 <h3>🖥️ LUNA — Desktop Application</h3>
 
 <a href="https://github.com/prabhatgautam7171/LUNA">
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/7e02c519-15e2-4bc6-99f9-b90bf4b034b3" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7e02c519-15e2-4bc6-99f9-b90bf4b034b3" />
 
 
 </a>

@@ -20,11 +20,9 @@
 
 <p><a href="https://irctc-reservation-system.onrender.com">Live Demo ↗</a></p>
 
-<br/>
 
 <hr/>
 
-<br/>
 
 <h3>🖥️ LUNA — Desktop Application</h3>
 

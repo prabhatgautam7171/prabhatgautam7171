@@ -27,7 +27,8 @@
 <h3>🖥️ LUNA — Desktop Application</h3>
 
 <a href="https://github.com/prabhatgautam7171/LUNA">
-<img width="200" alt="LUNA AI Desktop Application" src="https://github.com/user-attachments/assets/d220c2be-01de-414f-9c2c-8eb993a8f470"/>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fbd2c387-cc09-47eb-87c4-2922baf36022" />
+
 </a>
 
 <p>An AI-powered desktop experience built around simplicity, privacy, and performance.</p>

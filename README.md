@@ -43,7 +43,7 @@
 <h3>📱 Spredo — Mobile Application</h3>
 
 <a href="https://spredo.onrender.com/api">
-<img width="400" alt="Spredo Mobile Application iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
+<img width="200" alt="Spredo Mobile Application iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
 </a>
 
 <p>A campaign-amplification app that helps users discover campaigns, create initiatives, and bring meaningful causes to a wider audience.</p>

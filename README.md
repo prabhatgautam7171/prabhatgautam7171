@@ -71,7 +71,7 @@
 
 **Distinction 🏅** - *Jul 2026*
 
-<img src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="360" alt="Distinction Certificate"/>
+<img  src="https://github.com/user-attachments/assets/83b7a915-2ffc-44f2-b2b4-97f83bbcfca4" width="360" alt="Distinction Certificate"/>
 
 </td>
 

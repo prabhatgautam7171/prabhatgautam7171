@@ -7,10 +7,12 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>🌐 IRCTC — Web Application</h3>
+
 <a href="https://irctc-reservation-system.onrender.com">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f0943fb8-b270-4736-93c7-0c576c18cd92" />
 </a>
+
+<h3>🌐 IRCTC — Web Application</h3>
 
 <p>A full-stack train reservation platform featuring train search, booking workflows, seat allocation, authentication, and reservation management.</p>
 
@@ -22,13 +24,13 @@
 <hr/>
 
 
-<h3>🖥️ LUNA — Desktop Application</h3>
 
 <a href="https://github.com/prabhatgautam7171/LUNA">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/7e02c519-15e2-4bc6-99f9-b90bf4b034b3" />
-
-
 </a>
+
+
+<h3>🖥️ LUNA — Desktop Application</h3>
 
 <p>An AI-powered desktop experience built around simplicity, privacy, and performance.</p>
 
@@ -40,11 +42,13 @@
 
 <td width="50%" align="center" valign="top">
 
-<h3>📱 Spredo — Mobile Application</h3>
+
 
 <a href="https://spredo.onrender.com/api">
 <img width="400" alt="Spredo Mobile Application iPhone Mockup" src="https://github.com/user-attachments/assets/68538c4d-4ea6-439d-b1e5-c9b8af4fef55"/>
 </a>
+
+<h3>📱 Spredo — Mobile Application</h3>
 
 <p>A campaign-amplification app that helps users discover campaigns, create initiatives, and bring meaningful causes to a wider audience.</p>
 
